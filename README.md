@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-    Noveled From AICC 
+    MINSEOK From AICC 
 </h4>
 
 <div align="center">
@@ -18,4 +18,3 @@
   .
   <a href="">Ask a Question</a>
 </div>
-
